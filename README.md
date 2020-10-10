@@ -4,7 +4,7 @@ Change the Git branch that deploy to Azure App Service.
 
 ## Installation
 
-Copy [chbranch.bat](./chbranch.bat).
+Copy [chbranch.bat](./src/chbranch.bat).
 
 Set up the parameters.
 
